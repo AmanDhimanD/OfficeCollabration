@@ -1,0 +1,12 @@
+admin -> log in -> done
+	admin add ->done 
+
+
+
+
+
+
+pending:
+	name, desgination , role ---> this type of information and connection with database
+ 	update 
+	delete 
