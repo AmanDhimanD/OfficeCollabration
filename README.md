@@ -19,3 +19,5 @@ https://github.com/AmanDhimanD/OfficeCollabration/blob/main/Project%20Report%20A
 ![welcome](https://user-images.githubusercontent.com/72404186/149341705-27183740-6669-4bd1-b38b-bb47532d6d1f.PNG)
 ![admin login](https://user-images.githubusercontent.com/72404186/149341681-14e34876-a0d4-47f0-b38b-f1945a22b610.PNG)
 ![emp login](https://user-images.githubusercontent.com/72404186/149341744-c4dddb26-5d3c-4a03-b543-1d1a05a05e60.PNG)
+- Backend Part
+![DataBase 2 ADmin only ](https://user-images.githubusercontent.com/72404186/149342502-5a07b41d-d3b5-44dc-8c0c-fd714e17343f.PNG)
